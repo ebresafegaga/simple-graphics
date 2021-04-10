@@ -1,0 +1,6 @@
+(** @canonical Dune__exe.DDA *)
+module DDA = Dune__exe__DDA
+
+
+(** @canonical Dune__exe.Graphics *)
+module Graphics = Dune__exe__Graphics
