@@ -14,5 +14,5 @@ let calculate (x0, y0) (x1, y1) =
         let next = (x +. x_inc, y +. y_inc)
         and this = (round x, round y) in
         Some (this, next))
-    |> take (succ steps)
+    |> Seq.take (succ steps)
     
