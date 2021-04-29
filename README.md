@@ -1,4 +1,4 @@
-### Simple computer graphics algorithms in OCaml
+## Simple computer graphics algorithms in OCaml
 
 Algorithms include: 
 
